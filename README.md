@@ -53,9 +53,9 @@ DormiFind is a web-based platform that connects tenants with dormitory owners, a
 
 
 ## Developers
--Ramos Rafaella Mae
+- Ramos Rafaella Mae
 -Granados Michelle
--Tapales Sysrel
+-Tapales Syrel
 -Milcha Balbin
 -Napila Jhelian
 -Magada Kim ALfrederick
