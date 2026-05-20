@@ -41,25 +41,24 @@ DormiFind is a web-based platform that connects tenants with dormitory owners, a
 | Server   | XAMPP (Apache) |
 
 ## Project Structure
-DormiFind/
-├── frontend/
-│   └── src/
-├── backend/
-│   └── api/
-├── database/
-│   └── dormifind.sql
-└── README.md
+-DormiFind/
+-├── frontend/
+-│   └── src/
+-├── backend/
+-│   └── api/
+-├── database/
+-│   └── dormifind.sql
+-└── README.md
 
- License
-This project is for educational purposes only.
 
-Developers
-Ramos Rafaella Mae
-Granados Michelle
-Tapales Sysrel
-Milcha Balbin
-Napila Jhelian
-Magada Kim ALfrederick
+
+## Developers
+-Ramos Rafaella Mae
+-Granados Michelle
+-Tapales Sysrel
+-Milcha Balbin
+-Napila Jhelian
+-Magada Kim ALfrederick
 
 
 ## 📁 Project Structure
