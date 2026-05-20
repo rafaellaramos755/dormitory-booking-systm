@@ -41,30 +41,14 @@ DormiFind is a web-based platform that connects tenants with dormitory owners, a
 | Server   | XAMPP (Apache) |
 
 ## Project Structure
-dormifind/
+DormiFind/
 ├── frontend/
-│ ├── src/
-│ │ ├── components/ # Reusable components
-│ │ ├── contexts/ # React context (Auth)
-│ │ ├── hooks/ # Custom hooks (useAutoRefresh)
-│ │ ├── pages/ # Page components
-│ │ └── App.jsx
-│ └── package.json
-│
-└── backend/
-├── api/ # PHP API endpoints
-│ ├── admin/ # Admin functions
-│ ├── bookings/ # Booking operations
-│ ├── dormitories/ # Dormitory operations
-│ ├── payments/ # Payment operations
-│ ├── reports/ # Report functions
-│ └── users/ # User functions
-├── config/ # Database configuration
-├── uploads/ # Uploaded images
-│ ├── dormitories/
-│ ├── payments/
-│ └── proofs/
-└── .htaccess
+│   └── src/
+├── backend/
+│   └── api/
+├── database/
+│   └── dormifind.sql
+└── README.md
 
  License
 This project is for educational purposes only.
